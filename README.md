@@ -1,4 +1,4 @@
-# language-matlab package
+# MATLAB/Octave language package support in Atom
 
 Adds MATLAB/Octave language support to [Atom](https://atom.io).
 
